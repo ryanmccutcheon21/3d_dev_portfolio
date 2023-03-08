@@ -21,7 +21,7 @@ const FeedbackCard = ({ index, testimonial, name, designation, company, image })
             {designation} of {company}
           </p>
         </div>
-        <img src={image} alt={`feedback-by-${name}`} className='w-10 h-10 rounded-full object-cover' />
+        {/* <img src={image} alt={`feedback-by-${name}`} className='w-10 h-10 rounded-full object-cover' /> */}
       </div>
     </div>
   </motion.div>
