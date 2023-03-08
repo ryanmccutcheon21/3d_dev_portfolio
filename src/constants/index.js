@@ -276,7 +276,7 @@ const projects = [
     {
         name: "Under Armour Clone",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "A full stack Next.js web application that is a clone of the popular Under Armour brand's website.",
         tags: [
             {
                 name: "react",
@@ -298,7 +298,7 @@ const projects = [
     {
         name: "TechFreak",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "A React project that is an online, eCommerce store. Built for users searching for tech hardware.",
         tags: [
             {
                 name: "react",
@@ -320,7 +320,7 @@ const projects = [
     {
         name: "Tourism.com",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "Landing page built for a travel web site, Tourism.com. Built using just the basics. HTML, CSS, Bootstrap, and JavaScript.",
         tags: [
             {
                 name: "html",
@@ -342,7 +342,7 @@ const projects = [
     {
         name: "eCommerce Store",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "Full stack eCommerce project built on Next.js. Content managed with Sanity.io.",
         tags: [
             {
                 name: "next.js",
