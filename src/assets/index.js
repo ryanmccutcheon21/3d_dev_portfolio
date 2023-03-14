@@ -25,6 +25,7 @@ import nextjs from "./tech/nextjs.png"
 // import jest from "./tech/jest.png"
 // import materialui from "./tech/mui.png"
 // import bootstrap from "./tech/bootstrap.png"
+// jQuery, php, java, github, 
 
 import topprospects from "./company/topprospects.jpg"
 import arroyosecosaints from './company/arroyosecosaints.jpg'
