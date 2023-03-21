@@ -138,7 +138,7 @@ const experiences = [
         company_name: "Top Prospects Academy",
         icon: topprospects,
         iconBg: "#383E56",
-        date: "April 2023 - Current",
+        date: "March 2023 - Current",
         points: [
             "Building scalable and efficient front-end web application using React and other related technologies",
             "Developing server-side APIs and integrating them with the front-end using frameworks such as Node.js",
@@ -157,7 +157,7 @@ const experiences = [
         company_name: "Arroyo Seco Saints",
         icon: arroyosecosaints,
         iconBg: "#383E56",
-        date: "Nov 2022 - April 2023",
+        date: "Nov 2022 - March 2023",
         points: [
             "Develop and maintain WordPress web site utilizing knowledge of HTML, CSS, JavaScript and other related technologies.",
             "Collaborate with other developers to create high-quality products.",
