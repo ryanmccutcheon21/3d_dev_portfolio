@@ -25,6 +25,7 @@ import {
     firedpt,
     apex,
     nextjs,
+    carhub
     // mysql,
     // jest,
     // materialui,
@@ -44,7 +45,7 @@ export const navLinks = [
         id: "contact",
         title: "Contact",
     },
-];
+]
 
 const services = [
     {
@@ -59,7 +60,7 @@ const services = [
         title: "Backend Developer",
         icon: backend,
     },
-];
+]
 
 const technologies = [
     {
@@ -130,7 +131,7 @@ const technologies = [
     //     name: 'Bootstrap',
     //     icon: bootstrap
     // }
-];
+]
 
 const experiences = [
     {
@@ -199,7 +200,7 @@ const experiences = [
             "Kept the team's equipment and personal gear in good working order to meet any firefighting need."
         ],
     },
-];
+]
 
 const testimonials = [
     {
@@ -226,9 +227,31 @@ const testimonials = [
         company: "Fort Smith Fire Department",
         // image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
-];
+]
 
 const projects = [
+    {
+        name: "CarHub",
+        description:
+            "Next.js, TypeScript, HeadlessUI project",
+        tags: [
+            {
+                name: "Next.js",
+                color: "white-text-gradient",
+            },
+            {
+                name: "TypeScript",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "HeadlessUI",
+                color: "blue-text-gradient",
+            },
+        ],
+        image: carhub,
+        source_code_link: "https://github.com/ryanmccutcheon21/car_showcase",
+        project_link: 'https://car-showcase-alry57qph-ryanmccutcheon21.vercel.app/'
+    },
     {
         name: "Hoobank",
         description:
@@ -361,6 +384,6 @@ const projects = [
         source_code_link: "https://github.com/ryanmccutcheon21/eCommerce",
         project_link: 'https://ecommerce-zeta-coral.vercel.app/'
     },
-];
+]
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, testimonials, projects }
