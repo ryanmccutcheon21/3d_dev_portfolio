@@ -38,6 +38,7 @@ import underarmour from './underarmour.png'
 import techfreak from './techfreak.png'
 import tourism from './tourism.png'
 import eCommerce from './eCommerce.png'
+import carhub from './carhub.png'
 
 export {
   logo,
@@ -66,6 +67,7 @@ export {
   realtor,
   underarmour,
   techfreak,
+  carhub,
   tourism,
   eCommerce,
   website,
