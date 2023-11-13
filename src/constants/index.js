@@ -249,8 +249,8 @@ const projects = [
             },
         ],
         image: topprospects,
-        source_code_link: "https://www.topprospectsacademy.org/",
-        project_link: 'https://github.com/ryanmccutcheon21/top_prospects_academy'
+        source_code_link: "https://github.com/ryanmccutcheon21/top_prospects_academy",
+        project_link: 'https://www.topprospectsacademy.org/'
     },
     {
         name: "CarHub",
