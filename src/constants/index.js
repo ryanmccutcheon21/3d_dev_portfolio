@@ -231,6 +231,28 @@ const testimonials = [
 
 const projects = [
     {
+        name: "Top Prospects Academy",
+        description:
+            "Website for Top Prospects Academy in Broken Arrow, OK",
+        tags: [
+            {
+                name: "Next.js",
+                color: "white-text-gradient",
+            },
+            {
+                name: "TypeScript",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Tailwind",
+                color: "blue-text-gradient",
+            },
+        ],
+        image: topprospects,
+        source_code_link: "https://www.topprospectsacademy.org/",
+        project_link: 'https://github.com/ryanmccutcheon21/top_prospects_academy'
+    },
+    {
         name: "CarHub",
         description:
             "Next.js, TypeScript, HeadlessUI project",
