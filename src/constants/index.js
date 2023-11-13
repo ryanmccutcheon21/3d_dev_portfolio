@@ -236,16 +236,16 @@ const projects = [
             "Website for Top Prospects Academy in Broken Arrow, OK",
         tags: [
             {
-                name: "Next.js",
+                name: "next.js",
                 color: "white-text-gradient",
             },
             {
-                name: "TypeScript",
+                name: "typeScript",
                 color: "blue-text-gradient",
             },
             {
-                name: "Tailwind",
-                color: "red-text-gradient",
+                name: "tailwind",
+                color: "pink-text-gradient",
             },
         ],
         image: topprospects,
