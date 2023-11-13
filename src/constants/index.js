@@ -245,7 +245,7 @@ const projects = [
             },
             {
                 name: "Tailwind",
-                color: "blue-text-gradient",
+                color: "red-text-gradient",
             },
         ],
         image: topprospects,
@@ -258,16 +258,16 @@ const projects = [
             "Next.js, TypeScript, HeadlessUI project",
         tags: [
             {
-                name: "Next.js",
-                color: "white-text-gradient",
-            },
-            {
-                name: "TypeScript",
+                name: "next.js",
                 color: "blue-text-gradient",
             },
             {
-                name: "HeadlessUI",
-                color: "blue-text-gradient",
+                name: "typeScript",
+                color: "green-text-gradient",
+            },
+            {
+                name: "headless-ui",
+                color: "pink-text-gradient",
             },
         ],
         image: carhub,
